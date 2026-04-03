@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "armature_to_mesh"
+version = "1.0.0"
+name = "Armature to Mesh"
+tagline = "Convert armature bones to a mesh"
+maintainer = "Samantha Rogers"
+type = "add-on"
+website = "https://www.artstation.com/samrog"
+tags = ["Mesh", "Rigging", "Modeling"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
